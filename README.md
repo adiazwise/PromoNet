@@ -6,5 +6,6 @@
 
 * SOLID 
 * C# 
-* Net Core 6 / VSCode
+* Net Core 6 
+* VSCode
 
