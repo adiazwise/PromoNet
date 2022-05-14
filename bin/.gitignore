@@ -1,1 +1,4 @@
-/debug/.gitignore
+*.vscode
+bin 
+obj
+packages
